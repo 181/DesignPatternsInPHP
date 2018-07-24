@@ -1,0 +1,14 @@
+{
+	"autoload": {
+        "classmap": [
+            
+        ],
+        "psr-4": {
+            "DesignPatterns\\":""
+        }
+    },
+    "require-dev": {
+        "behat/behat": "^3.4",
+        "phpunit/phpunit": "^7.2"
+    }
+}
