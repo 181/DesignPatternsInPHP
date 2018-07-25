@@ -8,6 +8,7 @@
         }
     },
     "require-dev": {
+        "mockery/mockery": "dev-master",
         "behat/behat": "^3.4",
         "phpunit/phpunit": "^7.2"
     }
