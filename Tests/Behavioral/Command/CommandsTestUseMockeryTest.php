@@ -24,8 +24,7 @@ class CommandsTestUseMockeryTest extends TestCase
 	/** @test */
 	public function bulb_can_be_turned_on()
 	{
-		$this->mock->shouldReceive('turnOn')
-			 ->once();
+		$this->mock->shouldReceive('turnOn')->once();
 
 		$command = new TurnOnLightBulb($this->mock);
 		$command->execute();
