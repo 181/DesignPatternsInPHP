@@ -1,5 +1,5 @@
 <?php 
-namespace DesignPatterns\behavioral\chainOfRespons;
+namespace DesignPatterns\Behavioral\ChainOfRespons;
 
 class Pinterest extends Notifier
  {

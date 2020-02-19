@@ -1,5 +1,5 @@
 <?php 
-namespace DesignPatterns\behavioral\chainOfRespons;
+namespace DesignPatterns\Behavioral\ChainOfRespons;
 
 abstract class Notifier
 {
@@ -8,6 +8,7 @@ abstract class Notifier
 	public function notifyNext(Notifier $notifier)
 	{
 		$this->nextNotifier = $notifier;
+		
 		return $this->nextNotifier;
 	}
 

@@ -1,5 +1,7 @@
 {
-	"autoload": {
+    "name": "Design Patterns",
+    "description": "Review of DP",
+    "autoload": {
         "classmap": [
             
         ],
