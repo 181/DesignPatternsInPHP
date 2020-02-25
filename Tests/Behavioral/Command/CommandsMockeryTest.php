@@ -8,7 +8,7 @@ use DesignPatterns\Behavioral\Command\TurnOffLightBulb;
 use DesignPatterns\Behavioral\Command\TurnOnLightBulb;
 use Mockery;
 
-class CommandsTestUseMockeryTest extends TestCase
+class CommandsMockeryTest extends TestCase
 {
 	use MockeryPHPUnitIntegration;
 
