@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use Mockery;
 
-class CommandsMockeryTest extends TestCase
+class BridgeMockeryTest extends TestCase
 {
 	// To integrate Mockery into PHPUnit and avoid having to call the close method and have Mockery remove itself from code coverage reports. Extending \Mockery\Adapter\Phpunit\MockeryTestCase or using the MockeryPHPUnitIntegration trait is the recommended way of integrating Mockery with PHPUnit, since Mockery 1.0.0.
 	use MockeryPHPUnitIntegration;
