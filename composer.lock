@@ -89,16 +89,16 @@
         },
         {
             "name": "behat/gherkin",
-            "version": "v4.6.0",
+            "version": "v4.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Behat/Gherkin.git",
-                "reference": "ab0a02ea14893860bca00f225f5621d351a3ad07"
+                "reference": "25bdcaf37898b4a939fa3031d5d753ced97e4759"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Behat/Gherkin/zipball/ab0a02ea14893860bca00f225f5621d351a3ad07",
-                "reference": "ab0a02ea14893860bca00f225f5621d351a3ad07",
+                "url": "https://api.github.com/repos/Behat/Gherkin/zipball/25bdcaf37898b4a939fa3031d5d753ced97e4759",
+                "reference": "25bdcaf37898b4a939fa3031d5d753ced97e4759",
                 "shasum": ""
             },
             "require": {
@@ -144,7 +144,7 @@
                 "gherkin",
                 "parser"
             ],
-            "time": "2019-01-16T14:22:17+00:00"
+            "time": "2020-02-27T11:29:57+00:00"
         },
         {
             "name": "behat/transliterator",
@@ -333,12 +333,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mockery/mockery.git",
-                "reference": "ff980c3c69e5b4111e3f6bc8637c2a96d1bbcec3"
+                "reference": "2dec89e0633711c4c571ff1aa80521193f82614f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mockery/mockery/zipball/ff980c3c69e5b4111e3f6bc8637c2a96d1bbcec3",
-                "reference": "ff980c3c69e5b4111e3f6bc8637c2a96d1bbcec3",
+                "url": "https://api.github.com/repos/mockery/mockery/zipball/2dec89e0633711c4c571ff1aa80521193f82614f",
+                "reference": "2dec89e0633711c4c571ff1aa80521193f82614f",
                 "shasum": ""
             },
             "require": {
@@ -390,7 +390,7 @@
                 "test double",
                 "testing"
             ],
-            "time": "2020-02-19T09:47:27+00:00"
+            "time": "2020-02-24T16:45:20+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -596,16 +596,16 @@
         },
         {
             "name": "phpdocumentor/reflection-docblock",
-            "version": "5.0.0",
+            "version": "5.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
-                "reference": "a48807183a4b819072f26e347bbd0b5199a9d15f"
+                "reference": "cd72d394ca794d3466a3b2fc09d5a6c1dc86b47e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/a48807183a4b819072f26e347bbd0b5199a9d15f",
-                "reference": "a48807183a4b819072f26e347bbd0b5199a9d15f",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/cd72d394ca794d3466a3b2fc09d5a6c1dc86b47e",
+                "reference": "cd72d394ca794d3466a3b2fc09d5a6c1dc86b47e",
                 "shasum": ""
             },
             "require": {
@@ -645,7 +645,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2020-02-09T09:16:15+00:00"
+            "time": "2020-02-22T12:28:44+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",

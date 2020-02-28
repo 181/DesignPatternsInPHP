@@ -6,7 +6,8 @@
             
         ],
         "psr-4": {
-            "DesignPatterns\\":""
+            "DesignPatterns\\":"src",
+            "DesignPatterns\\Tests\\":"tests"
         }
     },
     "require-dev": {
