@@ -3,6 +3,7 @@
          backupStaticAttributes="false"
          bootstrap="vendor/autoload.php"
          colors="true"
+         printerClass="Sempro\PHPUnitPrettyPrinter\PrettyPrinter"
          convertErrorsToExceptions="true"
          convertNoticesToExceptions="true"
          convertWarningsToExceptions="true"
@@ -16,5 +17,6 @@
     <filter>
     </filter>
     <php>
+        <env name="PHPUNIT_PRETTY_PRINT_PROGRESS" value="true" />
     </php>
 </phpunit>
